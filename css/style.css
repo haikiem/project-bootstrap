@@ -1,0 +1,286 @@
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+
+header {
+	height: 697px;
+}
+.bg{
+	background-image: url("../img/main-slider.png");
+	height: 697px;
+	object-fit: contain;
+}
+.logo a {
+	font-family: 'Playfair Display', serif;
+	width: 74px;
+	height: 67px;
+	object-fit: contain;
+	font-family: 'Playfair Display', serif;
+	font-size: 50px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #ffffff;
+
+}
+.nav-top ul {
+	margin-right: 5rem;
+}
+.nav-top ul li a {
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #ffffff;
+}
+.nav-top ul li a:hover {
+	color: #000;
+}
+header .slide-text p {
+	width: 570px;
+	height: 360px;
+	font-family: 'Playfair Display', serif;
+	font-size: 90px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #ffffff;
+	text-transform: uppercase;
+	margin-left: 16rem;
+}
+.figure {
+	position: relative;
+	height: 950px;
+}
+.fg-left {
+	margin-top: 60px;
+}
+.fg-left p {
+	width: 315px;
+  	height: 115px;
+  	font-family: 'Playfair Display', serif;
+  	font-size: 50px;
+  	font-weight: bold;
+  	font-style: normal;
+  	font-stretch: normal;
+  	line-height: 0.9;
+  	letter-spacing: normal;
+  	text-align: center;
+  	color: #464242;	
+  	text-transform: uppercase;
+}
+.fg-left button {
+	width: 167px;
+	height: 46px;
+	background: none;
+	border: 1px solid gray;
+	margin-left: 140px;
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: italic;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #7f7e7e;
+	opacity: 0.6;
+	margin-top: 20px;
+
+}
+.fg-left img:first-of-type {
+	margin-top: 60px;
+}
+.fg-left img:last-of-type {
+	position: absolute;
+	left: 70px;
+    top: 300px;
+}
+.fg-right {
+	margin-top: 60px;
+}
+.fg-right img:first-of-type {
+	margin-top: 255px;
+}
+.fg-right img:last-of-type {
+	position: absolute;
+	left: 72px;
+    top: 25px;
+}
+.fg-right p {
+	width: 231px;
+  	height: 120px;
+  	font-family: 'Playfair Display', serif;
+  	font-size: 30px;
+  	font-weight: bold;
+  	font-style: italic;
+  	font-stretch: normal;
+  	line-height: normal;
+  	letter-spacing: normal;
+  	text-align: center;
+  	color: var(--greyish-brown);
+  	margin-left: 85px;
+  	margin-top: 40px;
+}
+.banner {
+	height: 634px;
+	position: relative;
+}
+.banner p {
+	width: 410px;
+  	height: 340px;
+  	font-family: 'Playfair Display', serif;
+  	font-size: 70px;
+  	font-weight: bold;
+  	font-style: normal;
+  	font-stretch: normal;
+  	line-height: 0.97;
+  	letter-spacing: normal;
+  	text-align: center;
+  	color: #ffffff;
+  	text-transform: uppercase;
+  	position: absolute;
+  	top: 147px;
+    left: 380px;
+}
+.favorite {
+	height: 700px;
+	margin-top: 100px;
+}
+.favorite p {
+	font-family: 'Playfair Display', serif;
+  	font-size: 30px;
+  	font-weight: bold;
+  	font-style: normal;
+  	color: #000;
+  	text-transform: uppercase;
+  	width: 100px;
+  	white-space: nowrap;
+  	height: 50px;
+  	transform: rotate(90deg);
+  	margin-top: 200px;
+}
+.btn-readmore {
+	margin-top: 80px;
+}
+.btn-readmore button{
+    width: 230px;
+  	height: 55px;
+  	background: none;
+  	border: 1px solid gray;
+  	font-family: 'Playfair Display', serif;
+  	font-size: 16px;
+  	font-weight: normal;
+  	font-style: italic;
+  	font-stretch: normal;
+  	line-height: normal;
+  	letter-spacing: normal;
+  	color: #7f7e7e;
+}
+.btn-readmore hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-top: 1px solid #b9a2a2;
+    width: 235px;
+}
+.readmore {
+	height: 334px;
+}
+.readmore p {
+  	transform: rotate(90deg);
+  	font-family: 'Playfair Display', serif;
+  	font-size: 12px;
+  	font-weight: bold;
+  	font-style: normal;
+  	color: #000;
+  	text-transform: uppercase;
+  	width: 120px;
+  	height: 15px;
+  	margin-top: 150px;
+}
+.contact {
+	margin-top: 80px;
+}
+.contact img{
+	width: 333px;
+}
+.new-letter {
+
+}
+.new-letter p:first-of-type {
+  width: 274px;
+  height: 128px;
+  font-family: 'Playfair Display', serif;
+  font-size: 70px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.91;
+  letter-spacing: normal;
+  color: var(--greyish-brown);
+  margin-bottom: 30px;
+  margin-top: 100px;
+}
+.new-letter p:last-of-type {
+  width: 370px;
+  height: 40px;
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--greyish-brown);
+}
+.new-letter input {
+  width: 300px;
+  height: 30px;
+  background-color: #f1f0eb;
+  font-family: 'Playfair Display', serif;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--greyish-brown);
+  border: none;
+
+}
+.logo-footer {
+  width: 27px;
+  height: 24px;
+  object-fit: contain;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #544f4f;
+} 
+.ft-navigation ul {
+	margin-top: -12px;
+}
+.ft-navigation ul li a {
+  text-decoration: none;
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
